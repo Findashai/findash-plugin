@@ -24,7 +24,7 @@ https://findash.ai/api/ai/mcp
 
 For a client that accepts `mcp.json`, use the configuration in this repository. Authenticate through the client's Authorize action and sign in to Findash. Review the requested access before approving it. Do not paste passwords, access tokens, or authorization codes into chat.
 
-Grok Bot and Cursor OAuth callback compatibility is being added to Findash. If registration reports `redirect_uri not allowlisted on this server`, contact support with the callback URL from `details.disallowed` and your client version. Do not send tokens or authorization codes. Marketplace submission alone does not enable callback compatibility.
+Findash recognizes the exact Cursor web, Grok Bot cloud, and desktop callback URLs documented for this integration. If registration reports `redirect_uri not allowlisted on this server`, contact support with the callback URL from `details.disallowed` and your client version. Do not send tokens or authorization codes. Marketplace submission alone does not enable callback compatibility.
 
 ## Example requests
 
