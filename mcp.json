@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "findash": {
+      "url": "https://findash.ai/api/ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "findash",
+  "displayName": "Findash",
+  "version": "0.1.0",
+  "description": "Connect Findash to work with authorized client records, financial planning information, tasks, notes, calendar events, and workflows.",
+  "author": {
+    "name": "FinDash Team",
+    "email": "hello@findash.ai"
+  },
+  "homepage": "https://findash.ai",
+  "repository": "https://github.com/Findashai/findash-plugin",
+  "license": "MIT",
+  "keywords": [
+    "findash",
+    "financial-planning",
+    "crm",
+    "mcp",
+    "grok"
+  ],
+  "logo": "assets/logo.png"
+}
